@@ -35,7 +35,7 @@ Follow these steps to complete this challenge:
 
 ## Acceptance Criteria (AC) and Score
 
-| Acceptance Criteria | Description                                                                                                                               | Points for Completed | Points for Automated |
+| Acceptance Criteria | Description                                                                                                                               | Points for Completed | Points for Automated Testing |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------|----------------------|
 | 1               | When the user enters the app, the app should show the Picture of the Day.                                                                 | 10                   | 10                   |
 | 2              | When the user selects a specific date with the format YYYY-MM-DD, the app should show the picture of the day for the given date.          | 20                   | n/a                  |
