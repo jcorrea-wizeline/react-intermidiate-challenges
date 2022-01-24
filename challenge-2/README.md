@@ -26,7 +26,7 @@ Follow these steps to complete this challenge:
 1. Create a new branch with the name `challenge-3` from this repository.
 2. Complete all the Acceptance Criteria.
 
-**Note:** We suggest using React Router for navigation and React Context/Redux for Global State Management.
+**Note:** We suggest using React Router for navigation and React Context or Redux for Global State Management.
 
 ## Acceptance Criteria (AC)
 
